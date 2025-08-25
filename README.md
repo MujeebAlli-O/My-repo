@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MujeebAlli-O
+
   
-  
-- 👀 I’m interested in Data vanalysis
+- 👀 I’m interested in Data analysis
+- I am skilled in Excel, PowerBI, effective communication skills, team work, leadership skills, proficiency in English. 
 - 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on projects and connect with likeminds.
 - 📫 How to reach me: abdulmujeebao@gmail.com
